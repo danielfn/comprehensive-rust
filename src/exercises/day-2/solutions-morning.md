@@ -7,3 +7,11 @@
 ```rust
 {{#include book-library.rs}}
 ```
+
+## Health Statistics
+
+([back to exercise](health-statistics.md))
+
+```rust
+{{#include health-statistics.rs}}
+```
